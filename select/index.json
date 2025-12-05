@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Tiny Stars",
+  "base_artist": "澁谷かのん (CV.伊達さゆり)、唐 可可 (CV.Liyuu)",
+  "createdAt": "2025-12-05T13:53:53.216123Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tiny Stars",
+      "artist": "澁谷かのん (CV.伊達さゆり) feat. 唐 可可 (CV.Liyuu)",
+      "has_synced": true,
+      "path": "select/01_Tiny_Stars_澁谷かのん_(CV.伊達さゆり)_feat._唐_可可_(CV.Liyuu).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tiny Stars",
+      "artist": "澁谷かのん(CV.伊達さゆり)、唐可可(CV.Liyuu)",
+      "has_synced": true,
+      "path": "select/02_Tiny_Stars_澁谷かのん(CV.伊達さゆり)、唐可可(CV.Liyuu).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tiny Stars (Off Vocal)",
+      "artist": "澁谷かのん(CV.伊達さゆり)、唐可可(CV.Liyuu)",
+      "has_synced": true,
+      "path": "select/03_Tiny_Stars_(Off_Vocal)_澁谷かのん(CV.伊達さゆり)、唐可可(CV.Liyuu).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tiny Stars",
+      "artist": "澁谷かのん (CV.伊達さゆり)",
+      "has_synced": true,
+      "path": "select/04_Tiny_Stars_澁谷かのん_(CV.伊達さゆり).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Satellite Heart (Tiny Stars remix)",
+      "artist": "Anya Marina",
+      "has_synced": true,
+      "path": "select/05_Satellite_Heart_(Tiny_Stars_remix)_Anya_Marina.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tiny Stars",
+      "artist": "澁谷かのん",
+      "has_synced": true,
+      "path": "select/06_Tiny_Stars_澁谷かのん.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tiny Stars",
+      "artist": "澁谷かのん(CV.伊達さゆり)、唐可可(CV.Liyuu)",
+      "has_synced": true,
+      "path": "select/07_Tiny_Stars_澁谷かのん(CV.伊達さゆり)、唐可可(CV.Liyuu).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tiny Stars",
+      "artist": "澁谷かのん (CV.伊達さゆり)、唐 可可 (CV.Liyuu)",
+      "has_synced": false,
+      "path": "select/pl_01_Tiny_Stars_澁谷かのん_(CV.伊達さゆり)、唐_可可_(CV.Liyuu).txt"
+    }
+  ]
+}
